@@ -1,0 +1,591 @@
+[
+    {
+      "runs": "94",
+      "balls": "143",
+      "fours": "19",
+      "sixes": "3",
+      "player": {
+        "text": "HH Gibbs",
+        "href": "http://www.cricketarchive.com/Archive/Players/2/2345/2345.html"
+      },
+      "match": {
+        "text": "South Africa v New Zealand",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/76/76557.html"
+      },
+      "grounds": {
+        "text": "New Wanderers Stadium, Johannesburg",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/23/1609.html"
+      },
+      "year": "2002/03"
+    },
+    {
+      "runs": "76",
+      "balls": "188*",
+      "fours": "13",
+      "sixes": "4",
+      "player": {
+        "text": "G Kirsten",
+        "href": "http://www.cricketarchive.com/Archive/Players/2/2114/2114.html"
+      },
+      "match": {
+        "text": "South Africa v United Arab Emirates",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/61/61859.html"
+      },
+      "grounds": {
+        "text": "Rawalpindi Cricket Stadium, Rawalpindi",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/22/1544.html"
+      },
+      "year": "1995/96"
+    },
+    {
+      "runs": "76",
+      "balls": "161",
+      "fours": "13",
+      "sixes": "4",
+      "player": {
+        "text": "AC Hudson",
+        "href": "http://www.cricketarchive.com/Archive/Players/2/2011/2011.html"
+      },
+      "match": {
+        "text": "South Africa v Netherlands",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/61/61921.html"
+      },
+      "grounds": {
+        "text": "Rawalpindi Cricket Stadium, Rawalpindi",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/22/1544.html"
+      },
+      "year": "1995/96"
+    },
+    {
+      "runs": "78",
+      "balls": "146",
+      "fours": "12",
+      "sixes": "5",
+      "player": {
+        "text": "AB de Villiers",
+        "href": "http://www.cricketarchive.com/Archive/Players/45/45848/45848.html"
+      },
+      "match": {
+        "text": "South Africa v West Indies",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/86/86133.html"
+      },
+      "grounds": {
+        "text": "Queen's Park (New), St George's",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/30/1802.html"
+      },
+      "year": "2006/07"
+    },
+    {
+      "runs": "76",
+      "balls": "134",
+      "fours": "13",
+      "sixes": "4",
+      "player": {
+        "text": "AB de Villiers",
+        "href": "http://www.cricketarchive.com/Archive/Players/45/45848/45848.html"
+      },
+      "match": {
+        "text": "South Africa v Netherlands",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/261/261436.html"
+      },
+      "grounds": {
+        "text": "Punjab Cricket Association Stadium, Mohali",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/14/953.html"
+      },
+      "year": "2010/11"
+    },
+    {
+      "runs": "72",
+      "balls": "87*",
+      "fours": "12",
+      "sixes": "4",
+      "player": {
+        "text": "HH Gibbs",
+        "href": "http://www.cricketarchive.com/Archive/Players/2/2345/2345.html"
+      },
+      "match": {
+        "text": "South Africa v Kenya",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/76/76530.html"
+      },
+      "grounds": {
+        "text": "North West Cricket Stadium, Potchefstroom",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/23/1642.html"
+      },
+      "year": "2002/03"
+    },
+    {
+      "runs": "74",
+      "balls": "128*",
+      "fours": "11",
+      "sixes": "5",
+      "player": {
+        "text": "JH Kallis",
+        "href": "http://www.cricketarchive.com/Archive/Players/2/2231/2231.html"
+      },
+      "match": {
+        "text": "South Africa v Netherlands",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/86/86103.html"
+      },
+      "grounds": {
+        "text": "Warner Park, Basseterre",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/30/1759.html"
+      },
+      "year": "2006/07"
+    },
+    {
+      "runs": "68",
+      "balls": "92",
+      "fours": "14",
+      "sixes": "2",
+      "player": {
+        "text": "AB de Villiers",
+        "href": "http://www.cricketarchive.com/Archive/Players/45/45848/45848.html"
+      },
+      "match": {
+        "text": "South Africa v Australia",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/86/86118.html"
+      },
+      "grounds": {
+        "text": "Warner Park, Basseterre",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/30/1759.html"
+      },
+      "year": "2006/07"
+    },
+    {
+      "runs": "62",
+      "balls": "78",
+      "fours": "11",
+      "sixes": "3",
+      "player": {
+        "text": "WJ Cronje",
+        "href": "http://www.cricketarchive.com/Archive/Players/2/2009/2009.html"
+      },
+      "match": {
+        "text": "South Africa v New Zealand",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/61/61872.html"
+      },
+      "grounds": {
+        "text": "Iqbal Stadium, Faisalabad",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/22/1483.html"
+      },
+      "year": "1995/96"
+    },
+    {
+      "runs": "58",
+      "balls": "91",
+      "fours": "13",
+      "sixes": "1",
+      "player": {
+        "text": "GC Smith",
+        "href": "http://www.cricketarchive.com/Archive/Players/10/10283/10283.html"
+      },
+      "match": {
+        "text": "South Africa v Scotland",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/86/86111.html"
+      },
+      "grounds": {
+        "text": "Warner Park, Basseterre",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/30/1759.html"
+      },
+      "year": "2006/07"
+    },
+    {
+      "runs": "60",
+      "balls": "75*",
+      "fours": "9",
+      "sixes": "4",
+      "player": {
+        "text": "MV Boucher",
+        "href": "http://www.cricketarchive.com/Archive/Players/3/3941/3941.html"
+      },
+      "match": {
+        "text": "South Africa v Netherlands",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/86/86103.html"
+      },
+      "grounds": {
+        "text": "Warner Park, Basseterre",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/30/1759.html"
+      },
+      "year": "2006/07"
+    },
+    {
+      "runs": "52",
+      "balls": "89*",
+      "fours": "13",
+      "sixes": "0",
+      "player": {
+        "text": "GC Smith",
+        "href": "http://www.cricketarchive.com/Archive/Players/10/10283/10283.html"
+      },
+      "match": {
+        "text": "South Africa v England",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/86/86140.html"
+      },
+      "grounds": {
+        "text": "Kensington Oval, Bridgetown",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/30/1764.html"
+      },
+      "year": "2006/07"
+    },
+    {
+      "runs": "46",
+      "balls": "101",
+      "fours": "10",
+      "sixes": "1",
+      "player": {
+        "text": "HH Gibbs",
+        "href": "http://www.cricketarchive.com/Archive/Players/2/2345/2345.html"
+      },
+      "match": {
+        "text": "South Africa v Australia",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/67/67873.html"
+      },
+      "grounds": {
+        "text": "Headingley, Leeds",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/11/570.html"
+      },
+      "year": "1999"
+    },
+    {
+      "runs": "58",
+      "balls": "72",
+      "fours": "4",
+      "sixes": "7",
+      "player": {
+        "text": "HH Gibbs",
+        "href": "http://www.cricketarchive.com/Archive/Players/2/2345/2345.html"
+      },
+      "match": {
+        "text": "South Africa v Netherlands",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/86/86103.html"
+      },
+      "grounds": {
+        "text": "Warner Park, Basseterre",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/30/1759.html"
+      },
+      "year": "2006/07"
+    },
+    {
+      "runs": "48",
+      "balls": "62",
+      "fours": "9",
+      "sixes": "2",
+      "player": {
+        "text": "AB de Villiers",
+        "href": "http://www.cricketarchive.com/Archive/Players/45/45848/45848.html"
+      },
+      "match": {
+        "text": "South Africa v Scotland",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/86/86111.html"
+      },
+      "grounds": {
+        "text": "Warner Park, Basseterre",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/30/1759.html"
+      },
+      "year": "2006/07"
+    },
+    {
+      "runs": "48",
+      "balls": "74",
+      "fours": "9",
+      "sixes": "2",
+      "player": {
+        "text": "GC Smith",
+        "href": "http://www.cricketarchive.com/Archive/Players/10/10283/10283.html"
+      },
+      "match": {
+        "text": "South Africa v Australia",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/86/86118.html"
+      },
+      "grounds": {
+        "text": "Warner Park, Basseterre",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/30/1759.html"
+      },
+      "year": "2006/07"
+    },
+    {
+      "runs": "40",
+      "balls": "90",
+      "fours": "10",
+      "sixes": "0",
+      "player": {
+        "text": "PN Kirsten",
+        "href": "http://www.cricketarchive.com/Archive/Players/2/2012/2012.html"
+      },
+      "match": {
+        "text": "South Africa v New Zealand",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/55/55556.html"
+      },
+      "grounds": {
+        "text": "Eden Park, Auckland",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/21/1405.html"
+      },
+      "year": "1991/92"
+    },
+    {
+      "runs": "42",
+      "balls": "52*",
+      "fours": "9",
+      "sixes": "1",
+      "player": {
+        "text": "G Kirsten",
+        "href": "http://www.cricketarchive.com/Archive/Players/2/2114/2114.html"
+      },
+      "match": {
+        "text": "South Africa v Bangladesh",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/76/76601.html"
+      },
+      "grounds": {
+        "text": "Goodyear Park, Bloemfontein",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/23/1561.html"
+      },
+      "year": "2002/03"
+    },
+    {
+      "runs": "44",
+      "balls": "107*",
+      "fours": "8",
+      "sixes": "2",
+      "player": {
+        "text": "AB de Villiers",
+        "href": "http://www.cricketarchive.com/Archive/Players/45/45848/45848.html"
+      },
+      "match": {
+        "text": "South Africa v West Indies",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/261/261426.html"
+      },
+      "grounds": {
+        "text": "Feroz Shah Kotla, Delhi",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/14/978.html"
+      },
+      "year": "2010/11"
+    },
+    {
+      "runs": "36",
+      "balls": "81*",
+      "fours": "9",
+      "sixes": "0",
+      "player": {
+        "text": "KC Wessels",
+        "href": "http://www.cricketarchive.com/Archive/Players/1/1692/1692.html"
+      },
+      "match": {
+        "text": "South Africa v Australia",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/55/55541.html"
+      },
+      "grounds": {
+        "text": "Sydney Cricket Ground, Sydney",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/2/209.html"
+      },
+      "year": "1991/92"
+    },
+    {
+      "runs": "36",
+      "balls": "52*",
+      "fours": "9",
+      "sixes": "0",
+      "player": {
+        "text": "G Kirsten",
+        "href": "http://www.cricketarchive.com/Archive/Players/2/2114/2114.html"
+      },
+      "match": {
+        "text": "South Africa v Kenya",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/76/76530.html"
+      },
+      "grounds": {
+        "text": "North West Cricket Stadium, Potchefstroom",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/23/1642.html"
+      },
+      "year": "2002/03"
+    },
+    {
+      "runs": "38",
+      "balls": "49*",
+      "fours": "8",
+      "sixes": "1",
+      "player": {
+        "text": "HH Gibbs",
+        "href": "http://www.cricketarchive.com/Archive/Players/2/2345/2345.html"
+      },
+      "match": {
+        "text": "South Africa v Bangladesh",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/76/76601.html"
+      },
+      "grounds": {
+        "text": "Goodyear Park, Bloemfontein",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/23/1561.html"
+      },
+      "year": "2002/03"
+    },
+    {
+      "runs": "40",
+      "balls": "73",
+      "fours": "7",
+      "sixes": "2",
+      "player": {
+        "text": "HH Gibbs",
+        "href": "http://www.cricketarchive.com/Archive/Players/2/2345/2345.html"
+      },
+      "match": {
+        "text": "South Africa v Sri Lanka",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/76/76705.html"
+      },
+      "grounds": {
+        "text": "Kingsmead, Durban",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/23/1585.html"
+      },
+      "year": "2002/03"
+    },
+    {
+      "runs": "32",
+      "balls": "54",
+      "fours": "8",
+      "sixes": "0",
+      "player": {
+        "text": "AC Hudson",
+        "href": "http://www.cricketarchive.com/Archive/Players/2/2011/2011.html"
+      },
+      "match": {
+        "text": "South Africa v Pakistan",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/55/55576.html"
+      },
+      "grounds": {
+        "text": "Brisbane Cricket Ground, Woolloongabba, Brisbane",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/2/41.html"
+      },
+      "year": "1991/92"
+    },
+    {
+      "runs": "32",
+      "balls": "54",
+      "fours": "8",
+      "sixes": "0",
+      "player": {
+        "text": "AC Hudson",
+        "href": "http://www.cricketarchive.com/Archive/Players/2/2011/2011.html"
+      },
+      "match": {
+        "text": "South Africa v West Indies",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/61/61940.html"
+      },
+      "grounds": {
+        "text": "National Stadium, Karachi",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/22/1506.html"
+      },
+      "year": "1995/96"
+    },
+    {
+      "runs": "36",
+      "balls": "67",
+      "fours": "6",
+      "sixes": "2",
+      "player": {
+        "text": "GC Smith",
+        "href": "http://www.cricketarchive.com/Archive/Players/10/10283/10283.html"
+      },
+      "match": {
+        "text": "South Africa v Netherlands",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/86/86103.html"
+      },
+      "grounds": {
+        "text": "Warner Park, Basseterre",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/30/1759.html"
+      },
+      "year": "2006/07"
+    },
+    {
+      "runs": "34",
+      "balls": "59",
+      "fours": "7",
+      "sixes": "1",
+      "player": {
+        "text": "GC Smith",
+        "href": "http://www.cricketarchive.com/Archive/Players/10/10283/10283.html"
+      },
+      "match": {
+        "text": "South Africa v Sri Lanka",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/86/86122.html"
+      },
+      "grounds": {
+        "text": "Guyana National Stadium, Providence",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/30/3066.html"
+      },
+      "year": "2006/07"
+    },
+    {
+      "runs": "32",
+      "balls": "66*",
+      "fours": "8",
+      "sixes": "0",
+      "player": {
+        "text": "JH Kallis",
+        "href": "http://www.cricketarchive.com/Archive/Players/2/2231/2231.html"
+      },
+      "match": {
+        "text": "South Africa v Ireland",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/86/86128.html"
+      },
+      "grounds": {
+        "text": "Guyana National Stadium, Providence",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/30/3066.html"
+      },
+      "year": "2006/07"
+    },
+    {
+      "runs": "32",
+      "balls": "42",
+      "fours": "8",
+      "sixes": "0",
+      "player": {
+        "text": "AB de Villiers",
+        "href": "http://www.cricketarchive.com/Archive/Players/45/45848/45848.html"
+      },
+      "match": {
+        "text": "South Africa v England",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/86/86140.html"
+      },
+      "grounds": {
+        "text": "Kensington Oval, Bridgetown",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/30/1764.html"
+      },
+      "year": "2006/07"
+    },
+    {
+      "runs": "32",
+      "balls": "113",
+      "fours": "8",
+      "sixes": "0",
+      "player": {
+        "text": "HM Amla",
+        "href": "http://www.cricketarchive.com/Archive/Players/9/9853/9853.html"
+      },
+      "match": {
+        "text": "South Africa v Netherlands",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/261/261436.html"
+      },
+      "grounds": {
+        "text": "Punjab Cricket Association Stadium, Mohali",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/14/953.html"
+      },
+      "year": "2010/11"
+    },
+    {
+      "runs": "34",
+      "balls": "42",
+      "fours": "7",
+      "sixes": "1",
+      "player": {
+        "text": "MN van Wyk",
+        "href": "http://www.cricketarchive.com/Archive/Players/6/6337/6337.html"
+      },
+      "match": {
+        "text": "South Africa v Ireland",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/261/261453.html"
+      },
+      "grounds": {
+        "text": "Eden Gardens, Kolkata",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/14/949.html"
+      },
+      "year": "2010/11"
+    }
+  ]

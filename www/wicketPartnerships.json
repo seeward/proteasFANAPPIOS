@@ -1,0 +1,102 @@
+[
+    {
+      "wicket": "1",
+      "runs": "186",
+      "players": "G Kirsten & AC Hudson",
+      "match": {
+        "text": "South Africa v Netherlands",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/61/61921.html"
+      },
+      "year": "1995/96"
+    },
+    {
+      "wicket": "2",
+      "runs": "170",
+      "players": "AB de Villiers & JH Kallis",
+      "match": {
+        "text": "South Africa v West Indies",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/86/86133.html"
+      },
+      "year": "2006/07"
+    },
+    {
+      "wicket": "3",
+      "runs": "221",
+      "players": "HM Amla & AB de Villiers",
+      "match": {
+        "text": "South Africa v Netherlands",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/261/261436.html"
+      },
+      "year": "2010/11"
+    },
+    {
+      "wicket": "4",
+      "runs": "134*",
+      "players": "JH Kallis & MV Boucher",
+      "match": {
+        "text": "South Africa v Netherlands",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/86/86103.html"
+      },
+      "year": "2006/07"
+    },
+    {
+      "wicket": "5",
+      "runs": "84",
+      "players": "JH Kallis & JN Rhodes",
+      "match": {
+        "text": "South Africa v Australia",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/67/67911.html"
+      },
+      "year": "1999"
+    },
+    {
+      "wicket": "6",
+      "runs": "87",
+      "players": "JP Duminy & CA Ingram",
+      "match": {
+        "text": "South Africa v Ireland",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/261/261453.html"
+      },
+      "year": "2010/11"
+    },
+    {
+      "wicket": "7",
+      "runs": "66",
+      "players": "DJ Cullinan & SM Pollock",
+      "match": {
+        "text": "South Africa v Zimbabwe",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/67/67768.html"
+      },
+      "year": "1999"
+    },
+    {
+      "wicket": "8",
+      "runs": "67",
+      "players": "L Klusener & N Boje",
+      "match": {
+        "text": "South Africa v West Indies",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/76/76521.html"
+      },
+      "year": "2002/03"
+    },
+    {
+      "wicket": "9",
+      "runs": "44",
+      "players": "L Klusener & S Elworthy",
+      "match": {
+        "text": "South Africa v Sri Lanka",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/67/67708.html"
+      },
+      "year": "1999"
+    },
+    {
+      "wicket": "10",
+      "runs": "35",
+      "players": "L Klusener & AA Donald",
+      "match": {
+        "text": "South Africa v Zimbabwe",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/67/67768.html"
+      },
+      "year": "1999"
+    }
+  ]

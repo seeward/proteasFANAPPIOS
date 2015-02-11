@@ -1,0 +1,610 @@
+[
+    {
+      "score": "5-18",
+      "player": {
+        "text": "AJ Hall",
+        "href": "http://www.cricketarchive.com/Archive/Players/4/4007/4007.html"
+      },
+      "match": {
+        "text": "South Africa v England",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/86/86140.html"
+      },
+      "grounds": {
+        "text": "Kensington Oval, Bridgetown",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/30/1764.html"
+      },
+      "year": "2006/07"
+    },
+    {
+      "score": "5-21",
+      "player": {
+        "text": "L Klusener",
+        "href": "http://www.cricketarchive.com/Archive/Players/2/2244/2244.html"
+      },
+      "match": {
+        "text": "South Africa v Kenya",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/67/67753.html"
+      },
+      "grounds": {
+        "text": "VRA Ground, Amstelveen",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/20/1350.html"
+      },
+      "year": "1999"
+    },
+    {
+      "score": "5-36",
+      "player": {
+        "text": "SM Pollock",
+        "href": "http://www.cricketarchive.com/Archive/Players/2/2227/2227.html"
+      },
+      "match": {
+        "text": "South Africa v Australia",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/67/67911.html"
+      },
+      "grounds": {
+        "text": "Edgbaston, Birmingham",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/11/321.html"
+      },
+      "year": "1999"
+    },
+    {
+      "score": "5-39",
+      "player": {
+        "text": "CK Langeveldt",
+        "href": "http://www.cricketarchive.com/Archive/Players/7/7509/7509.html"
+      },
+      "match": {
+        "text": "South Africa v Sri Lanka",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/86/86122.html"
+      },
+      "grounds": {
+        "text": "Guyana National Stadium, Providence",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/30/3066.html"
+      },
+      "year": "2006/07"
+    },
+    {
+      "score": "5-45",
+      "player": {
+        "text": "A Nel",
+        "href": "http://www.cricketarchive.com/Archive/Players/6/6326/6326.html"
+      },
+      "match": {
+        "text": "South Africa v Bangladesh",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/86/86130.html"
+      },
+      "grounds": {
+        "text": "Guyana National Stadium, Providence",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/30/3066.html"
+      },
+      "year": "2006/07"
+    },
+    {
+      "score": "5-50",
+      "player": {
+        "text": "DW Steyn",
+        "href": "http://www.cricketarchive.com/Archive/Players/61/61252/61252.html"
+      },
+      "match": {
+        "text": "South Africa v India",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/261/261448.html"
+      },
+      "grounds": {
+        "text": "Vidarbha Cricket Association Stadium, Nagpur",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/14/5797.html"
+      },
+      "year": "2010/11"
+    },
+    {
+      "score": "4-11",
+      "player": {
+        "text": "MW Pringle",
+        "href": "http://www.cricketarchive.com/Archive/Players/2/2014/2014.html"
+      },
+      "match": {
+        "text": "South Africa v West Indies",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/55/55566.html"
+      },
+      "grounds": {
+        "text": "Lancaster Park, Christchurch",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/21/1419.html"
+      },
+      "year": "1991/92"
+    },
+    {
+      "score": "4-12",
+      "player": {
+        "text": "RJ Peterson",
+        "href": "http://www.cricketarchive.com/Archive/Players/9/9415/9415.html"
+      },
+      "match": {
+        "text": "South Africa v Bangladesh",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/261/261458.html"
+      },
+      "grounds": {
+        "text": "Shere Bangla National Stadium, Mirpur",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/4/2735.html"
+      },
+      "year": "2010/11"
+    },
+    {
+      "score": "4-16",
+      "player": {
+        "text": "L Klusener",
+        "href": "http://www.cricketarchive.com/Archive/Players/2/2244/2244.html"
+      },
+      "match": {
+        "text": "South Africa v Kenya",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/76/76530.html"
+      },
+      "grounds": {
+        "text": "North West Cricket Stadium, Potchefstroom",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/23/1642.html"
+      },
+      "year": "2002/03"
+    },
+    {
+      "score": "4-17",
+      "player": {
+        "text": "AA Donald",
+        "href": "http://www.cricketarchive.com/Archive/Players/2/2010/2010.html"
+      },
+      "match": {
+        "text": "South Africa v England",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/67/67718.html"
+      },
+      "grounds": {
+        "text": "The Foster's Oval, Kennington",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/11/594.html"
+      },
+      "year": "1999"
+    },
+    {
+      "score": "4-24",
+      "player": {
+        "text": "M Ntini",
+        "href": "http://www.cricketarchive.com/Archive/Players/4/4067/4067.html"
+      },
+      "match": {
+        "text": "South Africa v Bangladesh",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/76/76601.html"
+      },
+      "grounds": {
+        "text": "Goodyear Park, Bloemfontein",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/23/1561.html"
+      },
+      "year": "2002/03"
+    },
+    {
+      "score": "4-32",
+      "player": {
+        "text": "AA Donald",
+        "href": "http://www.cricketarchive.com/Archive/Players/2/2010/2010.html"
+      },
+      "match": {
+        "text": "South Africa v Australia",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/67/67911.html"
+      },
+      "grounds": {
+        "text": "Edgbaston, Birmingham",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/11/321.html"
+      },
+      "year": "1999"
+    },
+    {
+      "score": "4-38",
+      "player": {
+        "text": "Imran Tahir",
+        "href": "http://www.cricketarchive.com/Archive/Players/19/19120/19120.html"
+      },
+      "match": {
+        "text": "South Africa v England",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/261/261440.html"
+      },
+      "grounds": {
+        "text": "MA Chidambaram Stadium, Chepauk, Chennai",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/14/961.html"
+      },
+      "year": "2010/11"
+    },
+    {
+      "score": "4-41",
+      "player": {
+        "text": "Imran Tahir",
+        "href": "http://www.cricketarchive.com/Archive/Players/19/19120/19120.html"
+      },
+      "match": {
+        "text": "South Africa v West Indies",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/261/261426.html"
+      },
+      "grounds": {
+        "text": "Feroz Shah Kotla, Delhi",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/14/978.html"
+      },
+      "year": "2010/11"
+    },
+    {
+      "score": "3-11",
+      "player": {
+        "text": "BM McMillan",
+        "href": "http://www.cricketarchive.com/Archive/Players/2/2060/2060.html"
+      },
+      "match": {
+        "text": "South Africa v United Arab Emirates",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/61/61859.html"
+      },
+      "grounds": {
+        "text": "Rawalpindi Cricket Stadium, Rawalpindi",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/22/1544.html"
+      },
+      "year": "1995/96"
+    },
+    {
+      "score": "3-14",
+      "player": {
+        "text": "LL Tsotsobe",
+        "href": "http://www.cricketarchive.com/Archive/Players/70/70951/70951.html"
+      },
+      "match": {
+        "text": "South Africa v Bangladesh",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/261/261458.html"
+      },
+      "grounds": {
+        "text": "Shere Bangla National Stadium, Mirpur",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/4/2735.html"
+      },
+      "year": "2010/11"
+    },
+    {
+      "score": "3-19",
+      "player": {
+        "text": "Imran Tahir",
+        "href": "http://www.cricketarchive.com/Archive/Players/19/19120/19120.html"
+      },
+      "match": {
+        "text": "South Africa v Netherlands",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/261/261436.html"
+      },
+      "grounds": {
+        "text": "Punjab Cricket Association Stadium, Mohali",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/14/953.html"
+      },
+      "year": "2010/11"
+    },
+    {
+      "score": "3-21",
+      "player": {
+        "text": "AA Donald",
+        "href": "http://www.cricketarchive.com/Archive/Players/2/2010/2010.html"
+      },
+      "match": {
+        "text": "South Africa v United Arab Emirates",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/61/61859.html"
+      },
+      "grounds": {
+        "text": "Rawalpindi Cricket Stadium, Rawalpindi",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/22/1544.html"
+      },
+      "year": "1995/96"
+    },
+    {
+      "score": "3-21",
+      "player": {
+        "text": "L Klusener",
+        "href": "http://www.cricketarchive.com/Archive/Players/2/2244/2244.html"
+      },
+      "match": {
+        "text": "South Africa v Sri Lanka",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/67/67708.html"
+      },
+      "grounds": {
+        "text": "County Ground, Northampton",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/11/653.html"
+      },
+      "year": "1999"
+    },
+    {
+      "score": "3-22",
+      "player": {
+        "text": "RJ Peterson",
+        "href": "http://www.cricketarchive.com/Archive/Players/9/9415/9415.html"
+      },
+      "match": {
+        "text": "South Africa v England",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/261/261440.html"
+      },
+      "grounds": {
+        "text": "MA Chidambaram Stadium, Chepauk, Chennai",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/14/961.html"
+      },
+      "year": "2010/11"
+    },
+    {
+      "score": "3-24",
+      "player": {
+        "text": "DW Steyn",
+        "href": "http://www.cricketarchive.com/Archive/Players/61/61252/61252.html"
+      },
+      "match": {
+        "text": "South Africa v West Indies",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/261/261426.html"
+      },
+      "grounds": {
+        "text": "Feroz Shah Kotla, Delhi",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/14/978.html"
+      },
+      "year": "2010/11"
+    },
+    {
+      "score": "3-26",
+      "player": {
+        "text": "JH Kallis",
+        "href": "http://www.cricketarchive.com/Archive/Players/2/2231/2231.html"
+      },
+      "match": {
+        "text": "South Africa v Sri Lanka",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/67/67708.html"
+      },
+      "grounds": {
+        "text": "County Ground, Northampton",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/11/653.html"
+      },
+      "year": "1999"
+    },
+    {
+      "score": "3-30",
+      "player": {
+        "text": "BM McMillan",
+        "href": "http://www.cricketarchive.com/Archive/Players/2/2060/2060.html"
+      },
+      "match": {
+        "text": "South Africa v Zimbabwe",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/55/55580.html"
+      },
+      "grounds": {
+        "text": "Manuka Oval, Canberra",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/2/66.html"
+      },
+      "year": "1991/92"
+    },
+    {
+      "score": "3-31",
+      "player": {
+        "text": "PN Kirsten",
+        "href": "http://www.cricketarchive.com/Archive/Players/2/2012/2012.html"
+      },
+      "match": {
+        "text": "South Africa v Zimbabwe",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/55/55580.html"
+      },
+      "grounds": {
+        "text": "Manuka Oval, Canberra",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/2/66.html"
+      },
+      "year": "1991/92"
+    },
+    {
+      "score": "3-32",
+      "player": {
+        "text": "RJ Peterson",
+        "href": "http://www.cricketarchive.com/Archive/Players/9/9415/9415.html"
+      },
+      "match": {
+        "text": "South Africa v Ireland",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/261/261453.html"
+      },
+      "grounds": {
+        "text": "Eden Gardens, Kolkata",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/14/949.html"
+      },
+      "year": "2010/11"
+    },
+    {
+      "score": "3-33",
+      "player": {
+        "text": "M Morkel",
+        "href": "http://www.cricketarchive.com/Archive/Players/62/62310/62310.html"
+      },
+      "match": {
+        "text": "South Africa v Ireland",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/261/261453.html"
+      },
+      "grounds": {
+        "text": "Eden Gardens, Kolkata",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/14/949.html"
+      },
+      "year": "2010/11"
+    },
+    {
+      "score": "3-34",
+      "player": {
+        "text": "AA Donald",
+        "href": "http://www.cricketarchive.com/Archive/Players/2/2010/2010.html"
+      },
+      "match": {
+        "text": "South Africa v Australia",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/55/55541.html"
+      },
+      "grounds": {
+        "text": "Sydney Cricket Ground, Sydney",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/2/209.html"
+      },
+      "year": "1991/92"
+    },
+    {
+      "score": "3-34",
+      "player": {
+        "text": "AA Donald",
+        "href": "http://www.cricketarchive.com/Archive/Players/2/2010/2010.html"
+      },
+      "match": {
+        "text": "South Africa v New Zealand",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/61/61872.html"
+      },
+      "grounds": {
+        "text": "Iqbal Stadium, Faisalabad",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/22/1483.html"
+      },
+      "year": "1995/96"
+    },
+    {
+      "score": "3-35",
+      "player": {
+        "text": "A Nel",
+        "href": "http://www.cricketarchive.com/Archive/Players/6/6326/6326.html"
+      },
+      "match": {
+        "text": "South Africa v England",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/86/86140.html"
+      },
+      "grounds": {
+        "text": "Kensington Oval, Bridgetown",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/30/1764.html"
+      },
+      "year": "2006/07"
+    },
+    {
+      "score": "3-40",
+      "player": {
+        "text": "AP Kuiper",
+        "href": "http://www.cricketarchive.com/Archive/Players/2/2013/2013.html"
+      },
+      "match": {
+        "text": "South Africa v Pakistan",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/55/55576.html"
+      },
+      "grounds": {
+        "text": "Brisbane Cricket Ground, Woolloongabba, Brisbane",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/2/41.html"
+      },
+      "year": "1991/92"
+    },
+    {
+      "score": "3-41",
+      "player": {
+        "text": "AA Donald",
+        "href": "http://www.cricketarchive.com/Archive/Players/2/2010/2010.html"
+      },
+      "match": {
+        "text": "South Africa v Zimbabwe",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/67/67768.html"
+      },
+      "grounds": {
+        "text": "County Ground, Chelmsford",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/11/396.html"
+      },
+      "year": "1999"
+    },
+    {
+      "score": "3-41",
+      "player": {
+        "text": "JH Kallis",
+        "href": "http://www.cricketarchive.com/Archive/Players/2/2231/2231.html"
+      },
+      "match": {
+        "text": "South Africa v Sri Lanka",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/76/76705.html"
+      },
+      "grounds": {
+        "text": "Kingsmead, Durban",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/23/1585.html"
+      },
+      "year": "2002/03"
+    },
+    {
+      "score": "3-41",
+      "player": {
+        "text": "CK Langeveldt",
+        "href": "http://www.cricketarchive.com/Archive/Players/7/7509/7509.html"
+      },
+      "match": {
+        "text": "South Africa v Ireland",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/86/86128.html"
+      },
+      "grounds": {
+        "text": "Guyana National Stadium, Providence",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/30/3066.html"
+      },
+      "year": "2006/07"
+    },
+    {
+      "score": "3-42",
+      "player": {
+        "text": "AA Donald",
+        "href": "http://www.cricketarchive.com/Archive/Players/2/2010/2010.html"
+      },
+      "match": {
+        "text": "South Africa v Sri Lanka",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/55/55560.html"
+      },
+      "grounds": {
+        "text": "Basin Reserve, Wellington",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/21/1474.html"
+      },
+      "year": "1991/92"
+    },
+    {
+      "score": "3-42",
+      "player": {
+        "text": "RP Snell",
+        "href": "http://www.cricketarchive.com/Archive/Players/2/2017/2017.html"
+      },
+      "match": {
+        "text": "South Africa v England",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/55/55586.html"
+      },
+      "grounds": {
+        "text": "Melbourne Cricket Ground, Melbourne",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/2/121.html"
+      },
+      "year": "1991/92"
+    },
+    {
+      "score": "3-46",
+      "player": {
+        "text": "M Morkel",
+        "href": "http://www.cricketarchive.com/Archive/Players/62/62310/62310.html"
+      },
+      "match": {
+        "text": "South Africa v New Zealand",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/261/261464.html"
+      },
+      "grounds": {
+        "text": "Shere Bangla National Stadium, Mirpur",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/4/2735.html"
+      },
+      "year": "2010/11"
+    },
+    {
+      "score": "3-48",
+      "player": {
+        "text": "AJ Hall",
+        "href": "http://www.cricketarchive.com/Archive/Players/4/4007/4007.html"
+      },
+      "match": {
+        "text": "South Africa v Scotland",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/86/86111.html"
+      },
+      "grounds": {
+        "text": "Warner Park, Basseterre",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/30/1759.html"
+      },
+      "year": "2006/07"
+    },
+    {
+      "score": "3-66",
+      "player": {
+        "text": "L Klusener",
+        "href": "http://www.cricketarchive.com/Archive/Players/2/2244/2244.html"
+      },
+      "match": {
+        "text": "South Africa v India",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/67/67664.html"
+      },
+      "grounds": {
+        "text": "County Ground, Hove",
+        "href": "http://www.cricketarchive.com/Archive/Grounds/11/346.html"
+      },
+      "year": "1999"
+    }
+  ]

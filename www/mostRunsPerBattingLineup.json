@@ -1,0 +1,170 @@
+[
+    {
+      "position": "1",
+      "score": "146",
+      "player": {
+        "text": "AB de Villiers",
+        "href": "http://www.cricketarchive.com/Archive/Players/45/45848/45848.html"
+      },
+      "match": {
+        "text": "South Africa v West Indies",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/86/86133.html"
+      },
+      "grounds": "Queen's Park (New), St George's",
+      "year": "2006/07"
+    },
+    {
+      "position": "2",
+      "score": "188*",
+      "player": {
+        "text": "G Kirsten",
+        "href": "http://www.cricketarchive.com/Archive/Players/2/2114/2114.html"
+      },
+      "match": {
+        "text": "South Africa v United Arab Emirates",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/61/61859.html"
+      },
+      "grounds": "Rawalpindi Cricket Stadium, Rawalpindi",
+      "year": "1995/96"
+    },
+    {
+      "position": "3",
+      "score": "128*",
+      "player": {
+        "text": "JH Kallis",
+        "href": "http://www.cricketarchive.com/Archive/Players/2/2231/2231.html"
+      },
+      "match": {
+        "text": "South Africa v Netherlands",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/86/86103.html"
+      },
+      "grounds": "Warner Park, Basseterre",
+      "year": "2006/07"
+    },
+    {
+      "position": "4",
+      "score": "134",
+      "player": {
+        "text": "AB de Villiers",
+        "href": "http://www.cricketarchive.com/Archive/Players/45/45848/45848.html"
+      },
+      "match": {
+        "text": "South Africa v Netherlands",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/261/261436.html"
+      },
+      "grounds": "Punjab Cricket Association Stadium, Mohali",
+      "year": "2010/11"
+    },
+    {
+      "position": "5",
+      "score": "99",
+      "player": {
+        "text": "JP Duminy",
+        "href": "http://www.cricketarchive.com/Archive/Players/44/44579/44579.html"
+      },
+      "match": {
+        "text": "South Africa v Ireland",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/261/261453.html"
+      },
+      "grounds": "Eden Gardens, Kolkata",
+      "year": "2010/11"
+    },
+    {
+      "position": "6",
+      "score": "49",
+      "player": {
+        "text": "MV Boucher",
+        "href": "http://www.cricketarchive.com/Archive/Players/3/3941/3941.html"
+      },
+      "match": {
+        "text": "South Africa v West Indies",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/76/76521.html"
+      },
+      "grounds": "Newlands, Cape Town",
+      "year": "2002/03"
+    },
+    {
+      "position": "7",
+      "score": "56*",
+      "player": {
+        "text": "HH Gibbs",
+        "href": "http://www.cricketarchive.com/Archive/Players/2/2345/2345.html"
+      },
+      "match": {
+        "text": "South Africa v Bangladesh",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/86/86130.html"
+      },
+      "grounds": "Guyana National Stadium, Providence",
+      "year": "2006/07"
+    },
+    {
+      "position": "8",
+      "score": "57",
+      "player": {
+        "text": "L Klusener",
+        "href": "http://www.cricketarchive.com/Archive/Players/2/2244/2244.html"
+      },
+      "match": {
+        "text": "South Africa v West Indies",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/76/76521.html"
+      },
+      "grounds": "Newlands, Cape Town",
+      "year": "2002/03"
+    },
+    {
+      "position": "9",
+      "score": "52*",
+      "player": {
+        "text": "L Klusener",
+        "href": "http://www.cricketarchive.com/Archive/Players/2/2244/2244.html"
+      },
+      "match": {
+        "text": "South Africa v Sri Lanka",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/67/67708.html"
+      },
+      "grounds": "County Ground, Northampton",
+      "year": "1999"
+    },
+    {
+      "position": "",
+      "score": "52*",
+      "player": {
+        "text": "L Klusener",
+        "href": "http://www.cricketarchive.com/Archive/Players/2/2244/2244.html"
+      },
+      "match": {
+        "text": "South Africa v Zimbabwe",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/67/67768.html"
+      },
+      "grounds": "County Ground, Chelmsford",
+      "year": "1999"
+    },
+    {
+      "position": "10",
+      "score": "23",
+      "player": {
+        "text": "S Elworthy",
+        "href": "http://www.cricketarchive.com/Archive/Players/2/2952/2952.html"
+      },
+      "match": {
+        "text": "South Africa v Sri Lanka",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/67/67708.html"
+      },
+      "grounds": "County Ground, Northampton",
+      "year": "1999"
+    },
+    {
+      "position": "11",
+      "score": "12",
+      "player": {
+        "text": "PS de Villiers",
+        "href": "http://www.cricketarchive.com/Archive/Players/2/2113/2113.html"
+      },
+      "match": {
+        "text": "South Africa v England",
+        "href": "http://www.cricketarchive.com/Archive/Scorecards/61/61889.html"
+      },
+      "grounds": "Rawalpindi Cricket Stadium, Rawalpindi",
+      "year": "1995/96"
+    }
+  ]

@@ -1,0 +1,567 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="msapplication-tap-highlight" content="no" />
+        
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height" />
+      
+ 
+        <title>Protea Fire</title>
+    </head>
+    <body>
+        <style>
+
+        body {
+            diplay : none;
+
+        }
+h4 {
+    padding-left:10px;
+    padding-top:10px;
+    color:white!important;
+}
+
+p,h2,h3,h1,h5,.grpaLabel,.grpbLabel,h6.testLabel,h6.odiLabel,h6.t20Label {
+    color:white;
+
+}
+
+
+
+#mainMenu {
+    display:none;
+  
+    right:0px;
+    position: fixed;
+    z-index: 32;
+
+}
+
+nav {
+    z-index: 11
+
+}
+
+#footer {
+    display:none;
+   background: #ffcc00; /* Old browsers */
+background: -moz-linear-gradient(top,  #ffcc00 0%, #ffe000 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffcc00), color-stop(100%,#ffe000)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #ffcc00 0%,#ffe000 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #ffcc00 0%,#ffe000 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #ffcc00 0%,#ffe000 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #ffcc00 0%,#ffe000 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffcc00', endColorstr='#ffe000',GradientType=0 ); /* IE6-9 */
+
+    padding-top:10px;
+    padding-bottom: 5px;
+
+}
+
+
+.date {
+    font-size:12px;
+
+    margin-bottom:-10px;
+    text-decoration: small-caps;
+
+}
+
+img {
+    z-index: 8;
+}
+
+
+
+        #page {
+        
+            display:none;
+    -webkit-overflow-scrolling: touch;
+            position:absolute;
+            top:55px;
+            width:100%;
+            overflow-x: hidden;
+            height:100%!important;
+            padding-left:10px;
+            padding-right:10px;
+           background-color: black;
+           -moz-background-size:100% 100%;
+-webkit-background-size:100% 100%;
+background-size:100% 100%;
+
+            
+        }
+
+        table {
+            width:100%;
+            background-color: white
+        }
+
+        table tr {
+            background-color: white
+        }
+
+        .btn-group {
+    width: 100%;
+}
+
+#mainImage {
+
+}
+
+.tweets {
+    margin-top:15px;
+    margin-bottom: 15px;
+    border-bottom:2px solid black;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-bottom: 20px;
+    color:white;
+}
+
+
+
+.tweets img {
+    margin: 5px;
+}
+
+
+ul {
+
+    margin-left:-20px;
+    list-style:none;
+    display:block;
+    width:100%;
+}
+
+ul li {
+    width: 100%;
+   
+  
+}
+
+
+.newsItem {
+    padding:5px;
+    font-size:16px;
+}
+
+#backer {
+    display:none;
+    position: fixed;
+    left:10px;
+    top:10px;
+    z-index: 28
+}
+
+.box {
+    display:block;
+    width:100%;
+    background:green;
+
+}
+
+#header {
+    display: block;
+    position: fixed;
+    top:0px;
+    left:0px;
+    right:0px;
+    width:100%;
+    padding-top:10px;
+    padding-bottom: 10px;
+     background: #ffcc00;
+      z-index: 27;
+
+}
+
+#brand {
+    display: none;
+    position: fixed;
+    z-index:8;
+    padding-left:10px;
+    padding-top:2px;
+    top:0px;
+    left:0px;
+    width:100%;
+    height:60px;
+    background-color: #ffcc00;
+    border-bottom-right-radius: 7px;
+}
+
+#brand img {
+    background-color: white;
+    padding:3px;
+    border-radius: 7px
+}
+
+
+
+#recordsWC {
+
+margin-bottom: 20px
+
+}
+
+
+.wcMenu { color: black;
+     background: #ffcc00; /* Old browsers */
+background: -moz-linear-gradient(top,  #ffcc00 0%, #ffe000 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffcc00), color-stop(100%,#ffe000)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #ffcc00 0%,#ffe000 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #ffcc00 0%,#ffe000 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #ffcc00 0%,#ffe000 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #ffcc00 0%,#ffe000 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffcc00', endColorstr='#ffe000',GradientType=0 ); /* IE6-9 */
+
+    padding:3px;
+    z-index: 111;
+    border-radius: 4px;
+    box-shadow: 0 0 3px black;
+
+
+}
+
+#helper {
+    position:absolute;
+    z-index: 100;
+    display:block;
+    width:300px;
+    height:30px;
+    top:100px;
+    left:30px;
+    display: none;
+    background-color: green;
+    opacity: 0.6;
+    font-size: 22px;
+    padding: 0px;
+    padding-left:15px;
+    border-radius: 7px;
+    color:white;
+}
+
+#wcLauncher {
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius:0;
+    border-top-right-radius:0;
+    border-top-left-radius:0;
+
+
+}
+
+#mainImage {
+
+    display:block;
+    width:90%;
+    height:200px;
+    margin-left:20px!important;
+ 
+}
+
+
+#brand span.appTitle {
+
+   
+   padding-left: 10px;
+
+   font-size: 15px
+
+}
+        </style>
+
+        <div class="globalStatus"></div>
+
+<div id="wrapper">
+<button id="backer" class="btn btn-xs btn-success"><</button>
+
+<div id="helper"><p>Swipe right for more -->>>></p></div>
+
+
+<div id="brand"><img src="imgs/48.png"><span class="appTitle">UNOFFICIAL Protea Fan App</span></div>
+<div class='container'>
+
+<div id='mainMenu'>
+
+    <div class="btn-group" >
+
+    
+    <button class='btn btn-success btn-block' type="button" id='wcLauncher'><img src="imgs/wc_logo.jpg" width="50"></button>
+    
+
+    
+    </div>
+    </div>
+
+
+     </div>
+    <div id="page"></div>
+    
+  
+
+
+<div class="home" style='position:absolute;left:-11000px'>
+  
+           <div class="row" style='margin-top:20px;margin-left:10px' id='mainImage'>
+
+            <img id='proteasMain' class='hidden-md hidden-lg hidden-sm img-rounded img-responsive' src='imgs/proteas.jpg' />
+        </div>
+        <div class="row" style='margin-top:200px;color:white;width:100%;padding-right:10px'>
+            <h4 id="welcomeTag" style='font-size:26px;background-color:#5cb85c;'>Welcome to Protea Fire!</h4>
+            <p style="margin-top:-15px;padding-left:15px;background-color:#5cb85c">Your place for Proteas World Cup Fever</p>
+            <noscript>
+            <div id="adBlock" style="background-color:#c1c1c1;margin-top:25px;height:60px;width:320px;color:grey;border-top:1px solid #c1c1c1;margin-left:35px"><p><br>ADBLOCK INSERTED HERE</p></div>
+        </noscript>
+        </div>
+
+</div>
+
+<div class="features" style='position:absolute;left:-11000px'>
+    <div class-"container">
+
+        
+
+<section>
+ <div id="mainSlider" class="carousel slide" data-interval="false" data-ride="carousel">
+      <!-- Indicators -->
+     
+
+      <!-- Wrapper for slides -->
+      <div class="carousel-inner">
+
+        <div class="item" id="targetZone2" style="width:100%;height:100%;overflow-x:hidden;webkit-overflow-scrolling: touch;">
+          <div id="temp"><h4>Loading...</h4><img style="margin-left:100px" src="imgs/loader.gif"></div>
+
+
+        </div>
+        <div class="item active" id="targetZone3" style="height:100%;width:100%;overflow-x:hidden;webkit-overflow-scrolling: touch;">
+<div id="temp3"><h4>Loading...</h4><img style="margin-left:100px" src="imgs/loader.gif"></div>
+        </div>
+        
+        <div class="item" id="targetZone1" style="width:100%;height:100%;overflow-x:hidden;webkit-overflow-scrolling: touch;">
+          <div id="temp2"><h4>Loading...</h4><img style="margin-left:100px" src="imgs/loader.gif"></div>
+
+        </div>
+      </div>
+
+
+
+    
+    </div>
+
+<style>
+.carousel-control {
+    background-image: none!important
+}
+
+.carousel-inner {
+height:100%;
+padding-bottom:100px;
+
+
+}
+</style>
+  </div>
+</section>
+        
+
+                
+    </div>
+
+
+
+</div>
+<div class='login' style='position:absolute;left:-11000px'>
+    
+
+  
+
+
+<div class="container">
+
+    <div class="row">
+        <div class="col-md-offset-5 col-md-3">
+            <div class="form-login">
+            
+            <p style="margin-top:35px">Join the Proteas Family by registering below!</p>
+            <input type="text" id="nickName" class="form-control input-sm chat-input" placeholder="Username" />
+            </br>
+            <input type="text" id="email" class="form-control input-sm chat-input" placeholder="Email" />
+            </br>
+            <input type="text" id="userPassword" class="form-control input-sm chat-input" placeholder="Password" />
+            </br>
+
+
+            <div class="wrapper2">
+            <span class="group-btn">     
+                <button id="register" class="btn btn-success btn-block">Register <i class="fa fa-sign-in"></button></a>
+            </span>
+
+            <span id="statusMsg"></span>
+            </div>
+            </div>
+        
+        </div>
+    </div>
+</div>
+
+
+
+</div>
+
+
+<div class='wcMenu' style='display:none;position:fixed;right:0px;top:60px'>
+    <div class="container">
+        <p style="color:black;font-weight:bold">World Cup 2015</p>
+            <button class="btn btn-success btn-block" id="fixtures">Fixtures</button>
+    <button class="btn btn-success btn-block" id="resultsLog">Results Log</button>
+
+            <button class="btn btn-success btn-block" id="featuresWC">Features</button>
+            <button class="btn btn-success btn-block" id="recordsWC">Proteas WC Records</button>
+        </div>
+</div>
+
+<div class='settings' style='position:absolute;left:-11000px'>
+    
+
+<fieldset>
+
+<!-- Form Name -->
+<h4>Protea Fire Settings</h4>
+
+
+<div class="form-group">
+
+  <div class="col-md-4">
+  
+  <div class="checkbox">
+    <label for="checkboxes-1">
+      <input type="checkbox" name="checkboxes" id="pushSetting" value="1">
+      Receive Notifications (beta)
+    </label>
+    </div>
+
+
+
+      <div class="checkbox">
+    <label for="checkboxes-2">
+      <input type="checkbox" name="checkboxes" id="emailSetting" value="1">
+      Receive Email updates (beta)
+    </label>
+    </div>
+
+
+
+  </div>
+</div>
+
+<!-- Button (Double) -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="button1id"></label>
+  <div class="col-md-8">
+    <button id="save" name="save" class="btn btn-success">Save</button>
+   <noscript> <button id="logout" name="logout" class="btn btn-danger">Log Out</button></noscript>
+  </div>
+</div>
+
+</fieldset>
+
+
+</div>
+
+
+
+<div class='fixtures' style='position:absolute;left:-11000px'></div>
+<div class="players" style='position:absolute;left:-11000px'></div>
+<div class='videos' style='position:absolute;left:-11000px'></div>
+<div class="rankings" style="position:absolute;left:-11000px"></div>
+<div class="news" style="position:absolute;left:-11000px"></div>
+<div class="connect" style="position:absolute;left:-11000px"></div>
+<div class="records" style="position:absolute;left:-11000px">
+
+    <h4>Proteas World Cup Records</h4><hr>
+
+<h5 style="color:white">WC Batting Records</h5>
+<button class="btn btn-block btn-success" id="totalRuns">Career Runs in WC</button>
+<button class="btn btn-block btn-success" id="bestBattingInnings">Best Batting Innings</button>
+<button class="btn btn-block btn-success" id="boundariesInnings">Most Boundaries in an Innings</button>
+<button class="btn btn-block btn-success" id="runsByLineup">Most Runs by Batting Order</button>
+
+<button class="btn btn-block btn-success" id="wicketPartnerships">Highest Wkt Partnerships</button>
+
+<h5  style="color:white">WC Bowling Records</h5>
+
+<button class="btn btn-block btn-success" id="mostWickets">Most Wickets</button>
+<button class="btn btn-block btn-success" id="bestBowlingInnings">Best Bowling Innings</button>
+<button class="btn btn-block btn-success" id="bowlingCareer">Bowling Career by Player</button>
+<button class="btn btn-block btn-success" id="runsConceded">Most Runs Conceded</button>
+
+
+
+
+</div>
+
+<div id="footer" style="position:fixed;z-index:22;left:0px;bottom:0px;width:100%;padding-left:7px">
+    
+ <div style="width:100%">
+
+      <button class='btn btn-success' type="button" id='home'><span class="glyphicon glyphicon-fire"></span></button>
+
+<button class='btn btn-success' type="button" id='players'><span class="glyphicon glyphicon-user"></span></button>
+    <button class='btn btn-success' type="button" id='videos'><span class="glyphicon glyphicon-film"></span></button>
+    <button class='btn btn-success' type="button" id='records'><span class="glyphicon glyphicon-stats"></span></button>
+    <button class='btn btn-success' type="button" id='rankings'><span class="glyphicon glyphicon-th-list"></span></button>
+
+     <button class='btn btn-success' type="button" id='connect'><span class="glyphicon glyphicon-thumbs-up"></span></button>
+     <button class='btn btn-success' type="button" id='news'><span class="glyphicon glyphicon-inbox"></span></button>
+
+
+            <button class='btn btn-success' type="button" id='settings'><span class="glyphicon glyphicon-cog"></span></button>
+
+    </div>
+
+
+
+
+</div>
+
+
+
+
+
+ </div>
+      
+<script type="text/javascript" src="js/jq.js"></script>
+ <script type="text/javascript" src="js/hammer.js"></script>
+         <script type="text/javascript" src="js/parse.js"></script>
+        <script type="text/javascript" src="js/bs.js"></script>
+          <link rel="stylesheet" href="css/bs.css" >
+       <style type="text/css">
+
+       .table-striped>tbody>tr:nth-child(odd)>td, 
+.table-striped>tbody>tr:nth-child(odd)>th {
+   background-color: #000000;color:white;
+ }
+
+ table tr {
+    background-color: #222222;
+    color:white;
+ }
+
+
+
+
+  table tr.success {
+    background-color: white;
+    color:black;
+ }
+
+ </style>
+        <script type="text/javascript" src="cordova.js"></script>
+      
+        <script type="text/javascript" src="js/index.js"></script>
+       
+    </body>
+</html>

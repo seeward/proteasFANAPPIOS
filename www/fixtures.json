@@ -1,0 +1,300 @@
+{
+  "feb": [
+    {
+      "date": "14",
+      "team1": "New Zealand",
+      "team2": "Sri Lanka",
+      "grounds": "Hagley Oval, Christchurch"
+    },
+    {
+      "date": "14",
+      "team1": "Australia",
+      "team2": "England",
+      "grounds": "Melbourne Cricket Ground"
+    },
+    {
+      "date": "15",
+      "team1": "South Africa",
+      "team2": "Zimbabwe",
+      "grounds": "Seddon Park, Hamilton"
+    },
+    {
+      "date": "15",
+      "team1": "India",
+      "team2": "Pakistan",
+      "grounds": "Adelaide Oval"
+    },
+    {
+      "date": "16",
+      "team1": "Ireland",
+      "team2": "West Indies",
+      "grounds": "Saxton Oval, Nelson"
+    },
+    {
+      "date": "17",
+      "team1": "New Zealand",
+      "team2": "Scotland",
+      "grounds": "University Oval, Dunedin"
+    },
+    {
+      "date": "18",
+      "team1": "Afghanistan",
+      "team2": "Bangladesh",
+      "grounds": "Manuka Oval, Canberra"
+    },
+    {
+      "date": "19",
+      "team1": "United Arab Emirates",
+      "team2": "Zimbabwe",
+      "grounds": "Saxton Oval, Nelson"
+    },
+    {
+      "date": "20",
+      "team1": "New Zealand",
+      "team2": "England",
+      "grounds": "Westpac Stadium, Wellington"
+    },
+    {
+      "date": "21",
+      "team1": "Pakistan",
+      "team2": "West Indies",
+      "grounds": "Hagley Oval, Christchurch"
+    },
+    {
+      "date": "21",
+      "team1": "Australia",
+      "team2": "Bangladesh",
+      "grounds": "Brisbane Cricket Ground, Woolloongabba"
+    },
+    {
+      "date": "22",
+      "team1": "Afghanistan",
+      "team2": "Sri Lanka",
+      "grounds": "University Oval, Dunedin"
+    },
+    {
+      "date": "22",
+      "team1": "India",
+      "team2": "South Africa",
+      "grounds": "Melbourne Cricket Ground"
+    },
+    {
+      "date": "23",
+      "team1": "England",
+      "team2": "Scotland",
+      "grounds": "Hagley Oval, Christchurch"
+    },
+    {
+      "date": "24",
+      "team1": "West Indies",
+      "team2": "Zimbabwe",
+      "grounds": "Manuka Oval, Canberra"
+    },
+    {
+      "date": "25",
+      "team1": "Ireland",
+      "team2": "United Arab Emirates",
+      "grounds": "Brisbane Cricket Ground, Woolloongabba"
+    },
+    {
+      "date": "26",
+      "team1": "Afghanistan",
+      "team2": "Scotland",
+      "grounds": "University Oval, Dunedin"
+    },
+    {
+      "date": "26",
+      "team1": "Bangladesh",
+      "team2": "Sri Lanka",
+      "grounds": "Melbourne Cricket Ground"
+    },
+    {
+      "date": "27",
+      "team1": "South Africa",
+      "team2": "West Indies",
+      "grounds": "Sydney Cricket Ground"
+    },
+    {
+      "date": "28",
+      "team1": "New Zealand",
+      "team2": "Australia",
+      "grounds": "Eden Park, Auckland"
+    },
+    {
+      "date": "28",
+      "team1": "India",
+      "team2": "United Arab Emirates",
+      "grounds": "Western Australia Cricket Association Ground, Perth"
+    }
+  ],
+  "march": [
+    {
+      "date": "1",
+      "team1": "England",
+      "team2": "Sri Lanka",
+      "grounds": "Westpac Stadium, Wellington"
+    },
+    {
+      "date": "1",
+      "team1": "Pakistan",
+      "team2": "Zimbabwe",
+      "grounds": "Brisbane Cricket Ground, Woolloongabba"
+    },
+    {
+      "date": "3",
+      "team1": "Ireland",
+      "team2": "South Africa",
+      "grounds": "Manuka Oval, Canberra"
+    },
+    {
+      "date": "4",
+      "team1": "Pakistan",
+      "team2": "United Arab Emirates",
+      "grounds": "McLean Park, Napier"
+    },
+    {
+      "date": "4",
+      "team1": "Australia",
+      "team2": "Afghanistan",
+      "grounds": "Western Australia Cricket Association Ground, Perth"
+    },
+    {
+      "date": "5",
+      "team1": "Bangladesh",
+      "team2": "Scotland",
+      "grounds": "Saxton Oval, Nelson"
+    },
+    {
+      "date": "6",
+      "team1": "India",
+      "team2": "West Indies",
+      "grounds": "Western Australia Cricket Association Ground, Perth"
+    },
+    {
+      "date": "7",
+      "team1": "Pakistan",
+      "team2": "South Africa",
+      "grounds": "Eden Park, Auckland"
+    },
+    {
+      "date": "7",
+      "team1": "Ireland",
+      "team2": "Zimbabwe",
+      "grounds": "Bellerive Oval, Hobart"
+    },
+    {
+      "date": "8",
+      "team1": "New Zealand",
+      "team2": "Afghanistan",
+      "grounds": "McLean Park, Napier"
+    },
+    {
+      "date": "8",
+      "team1": "Australia",
+      "team2": "Sri Lanka",
+      "grounds": "Sydney Cricket Ground"
+    },
+    {
+      "date": "9",
+      "team1": "England",
+      "team2": "Bangladesh",
+      "grounds": "Adelaide Oval"
+    },
+    {
+      "date": "10",
+      "team1": "India",
+      "team2": "Ireland",
+      "grounds": "Seddon Park, Hamilton"
+    },
+    {
+      "date": "11",
+      "team1": "Scotland",
+      "team2": "Sri Lanka",
+      "grounds": "Bellerive Oval, Hobart"
+    },
+    {
+      "date": "12",
+      "team1": "South Africa",
+      "team2": "United Arab Emirates",
+      "grounds": "Westpac Stadium, Wellington"
+    },
+    {
+      "date": "13",
+      "team1": "New Zealand",
+      "team2": "Bangladesh",
+      "grounds": "Seddon Park, Hamilton"
+    },
+    {
+      "date": "13",
+      "team1": "Afghanistan",
+      "team2": "England",
+      "grounds": "Sydney Cricket Ground"
+    },
+    {
+      "date": "14",
+      "team1": "India",
+      "team2": "Zimbabwe",
+      "grounds": "Eden Park, Auckland"
+    },
+    {
+      "date": "14",
+      "team1": "Australia",
+      "team2": "Scotland",
+      "grounds": "Bellerive Oval, Hobart"
+    },
+    {
+      "date": "15",
+      "team1": "United Arab Emirates",
+      "team2": "West Indies",
+      "grounds": "McLean Park, Napier"
+    },
+    {
+      "date": "15",
+      "team1": "Ireland",
+      "team2": "Pakistan",
+      "grounds": "Adelaide Oval"
+    },
+    {
+      "date": "18",
+      "team1": "A1 (Quarterfinal)",
+      "team2": "B4",
+      "grounds": "Sydney Cricket Ground"
+    },
+    {
+      "date": "19",
+      "team1": "A2 (Quarterfinal)",
+      "team2": "B3",
+      "grounds": "Melbourne Cricket Ground"
+    },
+    {
+      "date": "20",
+      "team1": "A3 (Quarterfinal)",
+      "team2": "B2",
+      "grounds": "Adelaide Oval"
+    },
+    {
+      "date": "21",
+      "team1": "A4 (Quarterfinal)",
+      "team2": "B1",
+      "grounds": "Westpac Stadium, Wellington"
+    },
+    {
+      "date": "24",
+      "team1": "TBA (Semifinal)",
+      "team2": "TBA",
+      "grounds": "Eden Park, Auckland"
+    },
+    {
+      "date": "26",
+      "team1": "TBA (Semifinal)",
+      "team2": "TBA",
+      "grounds": "Sydney Cricket Ground"
+    },
+    {
+      "date": "29",
+      "team1": "TBA (Final)",
+      "team2": "TBA",
+      "grounds": "Melbourne Cricket Ground"
+    }
+  ]
+}
