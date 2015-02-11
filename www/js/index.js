@@ -1170,40 +1170,6 @@ document.addEventListener('deviceready', function() {
         Parse.Analytics.track('appLaunch', dimensions);
 
 
-        /* parsePlugin.initialize("jParK9CQZdIRCsZtJ4d3UR5s1HNcZZPUhXlBJ1BN", "TzibPeTYbJFepHLudcSTIePRjKU5N8b89e806YlH", function() {
-        alert('success');
-    }, function(e) {
-        alert('error');
-    });
-
-
-
-
-    parsePlugin.subscribe('SampleChannel', function() {
-        alert('OK');
-    }, function(e) {
-        alert('error');
-    });*/
-
-
-         parsePlugin.initialize("jParK9CQZdIRCsZtJ4d3UR5s1HNcZZPUhXlBJ1BN", "TzibPeTYbJFepHLudcSTIePRjKU5N8b89e806YlH", function() {
-
-            parsePlugin.subscribe("allUsersNew", function() {
-
-                parsePlugin.getInstallationId(function(id) {
-
-                }, function(e) {
-                   
-                });
-
-            }, function(e) {
-               
-            });
-
-        }, function(e) {
-          
-        });
-
 
 
         //getRankings();
